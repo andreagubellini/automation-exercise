@@ -2,7 +2,7 @@
 
 ## What is being tested
 
-This exercise aims to test user registration and adding a specific product to the shopping cart.
+This exercise aims to test http://automationpractice.com/ user registration and adding a specific product to the shopping cart.
 
 ## Architecture
 
