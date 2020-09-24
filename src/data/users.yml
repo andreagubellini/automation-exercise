@@ -1,0 +1,19 @@
+firstUser:
+  name: Levi
+  lastName: Ackerman
+  email: 
+  password: "2444666668888888"
+  dayBirth: "4"
+  monthBirth: "4"
+  yearBirth: "1993"
+  company: automation-ninjas ltd.
+  address1: 300 BOYLSTON AVE
+  address2:   
+  city: Seattle
+  state: "47"
+  postcode: "98102"
+  country: "21"
+  additionalInfo: lorem ipsum dolor sit amet
+  phone:
+  mobilePhone: "202-555-0181"
+  alias: home
